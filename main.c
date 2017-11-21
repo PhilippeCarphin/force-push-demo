@@ -8,9 +8,9 @@ int our_function(void){
 
 int main(int argc, char **argv)
 {
-	printf("Hello, world");
+	printf("Hello, world\n");
 
-	printf("This is more);
+	printf("This is more\n");
 
 	return 0;
 }
