@@ -8,9 +8,15 @@ int our_function(void){
 
 int main(int argc, char **argv)
 {
+<<<<<<< HEAD
 	printf("Hello, world");
 
 	printf("This is more);
+=======
+	printf("Hello, world\n");
+
+	printf("This is more\n");
+>>>>>>> Note2
 
 	return 0;
 }
